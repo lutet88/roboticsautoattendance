@@ -2,10 +2,10 @@
 ### SAS One Degree North, 2020
 
 #### Hardware:
-Orange Pi Lite2
-Waveshare 1.8" 160x128 TFT LCD
-Generic PN532 Breakout (or any one with UART)
-some random buzzer i had
+- Orange Pi Lite2
+- Waveshare 1.8" 160x128 TFT LCD
+- Generic PN532 Breakout (or any one with UART)
+- some random buzzer i had
 
 #### Required Libraries:
 (python 3.7+)
