@@ -9,15 +9,15 @@ some random buzzer i had
 
 #### Required Libraries:
 (python 3.7+)
-OPi.GPIO
-gspread
-oauth2client
-PIL (pillow imaging)
-ST7735
+- OPi.GPIO
+- gspread
+- oauth2client
+- PIL (pillow imaging)
+- ST7735
 
 (other)
-libnfc (pn532-tamashell)
-WiringPi
+- libnfc (pn532-tamashell)
+- WiringPi
 
 #### Files
 - main.py
